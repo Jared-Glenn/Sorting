@@ -8,7 +8,6 @@ function bubbleSort(arr) {
             }
         }
     }
-    console.log("Arr:", arr);
     return arr;
 }
 
